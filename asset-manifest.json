@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/crypto-table/static/css/main.66e55bee.chunk.css",
+    "main.js": "/crypto-table/static/js/main.f2eda056.chunk.js",
+    "main.js.map": "/crypto-table/static/js/main.f2eda056.chunk.js.map",
+    "runtime~main.js": "/crypto-table/static/js/runtime~main.b7e52439.js",
+    "runtime~main.js.map": "/crypto-table/static/js/runtime~main.b7e52439.js.map",
+    "static/js/2.019ae9ac.chunk.js": "/crypto-table/static/js/2.019ae9ac.chunk.js",
+    "static/js/2.019ae9ac.chunk.js.map": "/crypto-table/static/js/2.019ae9ac.chunk.js.map",
+    "static/js/3.c02789ba.chunk.js": "/crypto-table/static/js/3.c02789ba.chunk.js",
+    "static/js/3.c02789ba.chunk.js.map": "/crypto-table/static/js/3.c02789ba.chunk.js.map",
+    "index.html": "/crypto-table/index.html",
+    "precache-manifest.e6430364845ac57d76fbf5f46350d50b.js": "/crypto-table/precache-manifest.e6430364845ac57d76fbf5f46350d50b.js",
+    "service-worker.js": "/crypto-table/service-worker.js",
+    "static/css/main.66e55bee.chunk.css.map": "/crypto-table/static/css/main.66e55bee.chunk.css.map"
+  }
+}
